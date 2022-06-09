@@ -1,0 +1,185 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ .backOn{
+ 	background-color: goldenrod;
+ }
+ .lyseDebora{
+ 	background-color: green;
+ }
+ .contact{
+ 	font-family: Arial;
+ 	background-color: plum;
+ }
+.general{
+	width: 100%;
+	background:linear-gradient(to top,rgba(0, 0, 0, 0.5)30%,
+	rgba(0, 0, 0,0.5)30% ),url(images/lens1.jpg);
+	background-position: center;
+	background-size: cover;
+    height: 100vh;
+}
+ 
+.navigationBar{
+	 top: 10;
+	text-align:center;
+}
+
+.body{
+	
+ background-image: url('images/lens1.jpg');
+	 background-repeat: no-repeat;
+	background-attachment: fixed;
+  background-size: cover;
+}
+
+
+.button {
+  background-color: transparent;
+  border:none;
+  color: white;
+  padding: 14px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+}
+
+
+
+.button:hover {
+  background-color: transparent; 
+  color: black;
+}
+
+.content{
+	text-align:auto;
+	 padding: 15px 32px;
+	color:rebeccapurple;
+	position: center;
+}
+.content span{
+ color: purple;
+}
+
+.content h1{
+ text-align:center;
+}
+
+.ourPageLogo{
+color: orange;
+
+font-size: 50px;
+text-align:center;
+float: center;
+}
+.search{
+	width:100%;
+	text-align: center;	
+}
+.table{
+	 border: 1px solid red;
+	 table-layout: unset;
+   width:100%;
+   margin: 0px; 
+	}
+  
+  label{
+	display: block;
+	margin: 40px;
+}
+.pageIcon{
+	width: 350px;
+	float: center;
+	height:50px;
+}
+.error{
+background-color: pink;
+}
+.ourPageLogo{
+color: orange;
+font-size: 50px;
+ 
+padding: 20px;
+float: center;
+padding-right: 20px;
+}
+ol li{
+list-style: upper-norwegian;
+margin-top: 62px;
+margin-right: 67px;
+font-size: 25px;
+}
+ol{
+	float: right;
+	display: flext;
+	justify-content: center;
+}
+ol li a{
+	color: brown;
+	font-weight: bolder;
+	 
+}
+ol li a:hover{
+	color: yellowgreen;
+}
+
+.srch{
+	background: tomato;
+	width: 37px;
+	height: 47px;
+}
+.define{
+text-align: center;
+}
+.button{
+	width: 100;
+	height: 200px;
+	color: yellow;
+}
+
+.form{
+	width: 200px;
+	height: 200px;
+	top: 12px;
+	left: 700px;
+	position: absolute;
+	background: linear-gradient(to top,rgba(0, 0, 0, 0.6)70%,
+	rgba(0, 0, 0, 0.6)90%);
+}
+.down{
+    background:skyblue;
+    margin-top: 15px;
+    padding: 30px;
+}
+.form input{
+	width: 200px;
+	height: 300px;
+	color: white;
+	 font-family: white;
+	background-color: black;
+}
+.form link{
+ font-size:200px;
+ padding: 200px;
+ text-align: left;
+}
+  .btn3{
+	font-weight: bolder;
+	color: black;
+}
+.luminate
+{width:12px;
+
+height:12px;}
+ 
+.general1{
+	width: 100%;
+	background:linear-gradient(to top,rgba(0, 0, 0, 0.5)30%,
+	rgba(0, 0, 0,0.5)30% ),url(images/patient.png);
+	background-position: center;
+	background-size: cover;
+    height: 100vh;
+}
